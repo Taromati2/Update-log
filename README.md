@@ -1,6 +1,10 @@
 # Update-log  
 真的有人会看这玩意🐎  
 
+- 2021.10.10  
+最近在忙[yaya-CI-check]( https://github.com/Taromati2/yaya-CI-check )的更新，所以对人格本身没太多更新  
+此项目的用处在于优化工作流  
+
 - 2021.10.6  
 更新动画  
 初次更新减负  
