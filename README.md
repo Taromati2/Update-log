@@ -1,6 +1,10 @@
 # Update-log  
 真的有人会看这玩意🐎  
 
+- 2021.10.28  
+discord动态支持  
+安装或更新discord插件来体验这次的更新：https://github.com/ponapalt/csaori/releases/tag/Discord_plugin_v1.1.2.2  
+
 - 2021.10.26  
 从这次更新开始：  
 kikka可以记住你常用的用户名了，尽管你两相处八十年以上时她会慢慢的忘掉一点，但是新的记忆总会弥补旧的忘却  
