@@ -1,11 +1,14 @@
 # Update-log  
 真的有人会看这玩意🐎  
 
+- 2021.10.29  
+鼠标指针！  
+感谢[**@Dinoce**]( https://github.com/dinoce24 )的帮助  
+
 - 2021.10.28  
 discord动态支持  
 安装或更新discord插件来体验这次的更新：https://github.com/ponapalt/csaori/releases/tag/Discord_plugin_v1.1.2.2  
-![](https://user-images.githubusercontent.com/31927825/139427074-edd69bfa-66d1-4cc3-9774-4ddffb2d4fb5.gif)
-
+![](https://user-images.githubusercontent.com/31927825/139427074-edd69bfa-66d1-4cc3-9774-4ddffb2d4fb5.gif)  
 
 - 2021.10.26  
 从这次更新开始：  
@@ -14,7 +17,7 @@ kikka可以记住你常用的用户名了，尽管你两相处八十年以上时
 修复了一些日语数据的错字误字，感谢[**@OmegaV1105**](https://github.com/OmegaV1105)的帮助  
 
 - 2021.10.23  
-修复了无法在非中文电脑上稳定运行的问题，感谢[**@OmegaV1105**](https://github.com/OmegaV1105)的帮助  
+修复了无法在非中文电脑上稳定运行的问题，感谢[**@OmegaV1105**]( https://github.com/OmegaV1105 )的帮助  
 
 - 2021.10.21  
 关于老存档转新的改善  
