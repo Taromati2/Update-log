@@ -4,6 +4,8 @@
 - 2021.10.28  
 discord动态支持  
 安装或更新discord插件来体验这次的更新：https://github.com/ponapalt/csaori/releases/tag/Discord_plugin_v1.1.2.2  
+![](https://user-images.githubusercontent.com/31927825/139427074-edd69bfa-66d1-4cc3-9774-4ddffb2d4fb5.gif)
+
 
 - 2021.10.26  
 从这次更新开始：  
@@ -71,7 +73,7 @@ kikka可以记住你常用的用户名了，尽管你两相处八十年以上时
 
 - 2021.9.11  
 拖入可能的未定义事件名现在支持快捷补充定义  
-![随手录的预览图](https://cdn.discordapp.com/attachments/436816106976444416/886137837479669780/a.gif)  
+![](https://user-images.githubusercontent.com/31927825/139427104-5dac0881-afe2-4a30-8cdf-ea5bd2a525da.gif)  
 
 - 2021.9.8  
 静默更新功能  
