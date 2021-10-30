@@ -1,6 +1,10 @@
 # Update-log  
 真的有人会看这玩意🐎  
 
+- 2021.10.30  
+实验性的对话概率调整  
+修复了一些日语数据的错字误字，感谢[**@OmegaV1105**](https://github.com/OmegaV1105)的帮助  
+
 - 2021.10.29  
 鼠标指针！  
 感谢[**@Dinoce**]( https://github.com/dinoce24 )的帮助  
