@@ -1,6 +1,10 @@
 # Update-log  
 真的有人会看这玩意🐎  
 
+- 2021.11.25  
+修复MAGICSAVE功能在某些情况下将错误存档文件保存的恶性BUG  
+  * **如果你的人格有失忆请尽快联系我**，[交流群链接见此]( https://github.com/Taromati2/Taromati2#%E4%BA%A4%E6%B5%81%E7%BE%A4 )  
+
 - 2021.11.13-11.19  
 更新yaya  
 优化工作流  
