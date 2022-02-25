@@ -1,6 +1,10 @@
 # Update-log  
 真的有人会看这玩意🐎  
 
+- 2022.2.24  
+辞书些微优化  
+[GCS]( https://buynowforsale.shillest.net/ghosts/ )预览图支持  
+
 - 2022.2.23  
 对俄罗斯方块的辞书进行了些微优化  
 修复了右键作者链接的404问题  
