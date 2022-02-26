@@ -1,6 +1,9 @@
 # Update-log  
 真的有人会看这玩意🐎  
 
+- 2022.2.26  
+更新aya  
+
 - 2022.2.24  
 辞书些微优化  
 [GCS]( https://buynowforsale.shillest.net/ghosts/ )预览图支持  
