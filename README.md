@@ -9,11 +9,11 @@
 更新aya  
 修复了所有48个shell中s72的警告问题，这意味着你可能需要将48个shell全部更新一遍来获得最好的体验（或者打开自动更新！）  
 修复一言的句子没有正确显示在Discord Rich Presence中的问题，它是由以下代码导致的  
-```diff
--	DiscordCustomSet.CustomDetail('hitokoto')
-+	DiscordCustomSet.CustomDetail(hitokoto)
-```
-是的，我像个傻瓜  
+  ```diff
+  -	DiscordCustomSet.CustomDetail('hitokoto')
+  +	DiscordCustomSet.CustomDetail(hitokoto)
+  ```
+  是的，我像个傻瓜  
 
 - 2022.2.27  
 辞书些微优化  
