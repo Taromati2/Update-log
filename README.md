@@ -5,6 +5,12 @@
 
 _____
 
+#### 2023.6.27  
+
+更新[ghost terminal](https://github.com/ukatech/ghost_terminal)到[v13.9.0.2](https://github.com/ukatech/ghost_terminal/releases/tag/v13.9.0.2)  
+
+_____
+
 #### 2023.6.26  
 
 SNTP反应bug修复  
