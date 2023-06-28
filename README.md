@@ -5,6 +5,12 @@
 
 _____
 
+#### 2023.6.29  
+
+修复shell购买时需要多次切换的bug  
+
+_____
+
 #### 2023.6.27  
 
 更新[ghost terminal](https://github.com/ukatech/ghost_terminal)到[v13.9.0.2](https://github.com/ukatech/ghost_terminal/releases/tag/v13.9.0.2)  
